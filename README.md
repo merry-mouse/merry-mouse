@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @merry-mouse
 - 👀 I’m interested in Python programming
-- 🌱 I’m currently learning OOP in Python
+- 🌱 I’m currently learning web development in Python
 - 💞️ I’m looking to collaborate on easy Python projects to practice my coding skills
 - 📫 How to reach me: via email potekh.anastasia@gmail.com
 
