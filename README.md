@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @merry-mouse
 - 👀 I’m interested in Python programming
-- 🌱 I’m currently learning Flask
 - 💞️ I’m looking to collaborate on Python projects to practice my coding skills
 - 📫 How to reach me: via email potekh.anastasia@gmail.com
 
