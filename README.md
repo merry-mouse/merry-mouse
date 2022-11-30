@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @merry-mouse
-- 👀 I’m interested in Python programming
-- 💞️ I’m looking to collaborate on Python projects to practice my coding skills
+- 👩‍💻 I'm a Junior backend developer
+- 👀 I’m currently learning Django
 - 📫 How to reach me: via email potekh.anastasia@gmail.com
 
 <!---
