@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @merry-mouse
-- 👩‍💻 I'm a Junior backend developer
-- 👀 I’m currently learning Django
+- 👩‍💻 I'm a Backend developer
 - 📫 How to reach me: via email potekh.anastasia@gmail.com
 
 <!---
